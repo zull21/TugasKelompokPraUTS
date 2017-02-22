@@ -16,7 +16,7 @@ public class BukuAlamat {
     String telpon;
     String email;
     public static void main (String [] arg)
-    {int n =2;
+    {int n =50;
         BukuAlamat a[] = new BukuAlamat[n];
     Scanner x = new Scanner (System.in);
     for (int i=0 ; i<n ; i++)
